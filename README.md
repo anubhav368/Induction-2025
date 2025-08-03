@@ -14,8 +14,9 @@ Anubhav singh CSE group A
 <h1 align="center"><marquee>day 2</marquee></h1>
 <b>-9:00am to 9:50am</b> english proficiency test 
 <br>
-<strong>10:00am to 10:50am</strong> maths proficiency test <br>
+<strong>-10:00am to 10:50am</strong> maths proficiency test <br>
 <strong>-break</strong>
+
 
 
 
