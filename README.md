@@ -10,14 +10,19 @@ Anubhav singh CSE group A
 <strong>-10:30</strong> we gathered in auditorium for interaction session
 <br>
 
+
+<h1 align="center">day 2</h1>
 <hr>
-<h1 align="center"><marquee>day 2</marquee></h1>
-<b>-9:00am to 9:50am</b> english proficiency test 
+<b>-9:30am</b> english proficiency test
 <br>
-<strong>-10:00am to 10:50am</strong> maths proficiency test <br>
-<strong>-break</strong>
-
-
+<b>-10:30am</b> maths proficiency test <br>
+<strong>-break</strong><br>
+<b>-1:10pm</b> session in college auditorium manish sir giving knowledge about satya scholorship program <br>
+<strong><font face="chopsic">=> expert lecture by dr.arshdeep sir on "food a pivotal role in student overall wellness" </font></strong>
+<br>
+<b>-3:00pm</b> session about how to use git and github
+<h1 align="center">day 3</h1>
+<hr>
 
 
 
