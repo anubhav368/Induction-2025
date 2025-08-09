@@ -28,9 +28,9 @@ Anubhav singh CSE group A
 <i><h4>universal human values:a path to happiness </h4></i>
 <i> lecture of the day was on universal human values, a subject that delves into the essence of what it means to live a fulfilling and content life dr. priya darshani mam explained us the difference between excitement and happiness we explored the concept of happiness and the state of contentment the session providing us a way how we can achieve real happiness</i>
 <h4 align="center">causmic club</h4>
-<i>the vision of causmic club is to learn something from everything in its physical essence; the essence, which is equally enlightening and dark 
+<i>The vision of causmic club is to learn something from everything in its physical essence; the essence, which is equally enlightening and dark 
 <br>
-the member of this club believe in rational and reason based thinking and reasoning and wish to promote a culture of critical thinking </i>
+The member of this club believe in rational and reason based thinking and reasoning and wish to promote a culture of critical thinking </i>
 
 
 
