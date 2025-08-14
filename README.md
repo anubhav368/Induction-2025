@@ -11,10 +11,15 @@ Our principal sir then motivated us to make the best use of this platform. Then 
 <br><br>
 The event concluded with a vote of thanks by dr.KS mann, HOD IT.</i>
 
-
-
 <h1 align="center">day 2</h1>
 <hr>
+<i>Maths and english proficiency tests were conducted for all streams to assess foundational skill.
+<br><br>
+Manish sir from Buddy4study team guided us about scholorship opportunity available for first year student. They are giving information about satya scholorship program and how to apply for this scholarship 
+<br><br>After this, expert lecture given by dr.arashdeep singh on "Food a pivotal role in student's overall wellness" he told us that food plays a pivotal role in student's overall wellness, fuelling the body, sharpening the minds, and uplifting the spirit. A balanced diet provides the energy and nutrients needed for growth, supports focus and memory for academic success 
+<br>
+<h3 align="center"> Github</h3>
+our seniors introduced us with git and github where I have to make my first repository on induction program.</i>
 
 <h1 align="center">day 3</h1>
 <hr>
