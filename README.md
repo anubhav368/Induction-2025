@@ -4,11 +4,11 @@ Anubhav singh CSE group A
 <hr>
 <h4 align="center"><i>-The day begin with path and kirtan at the college gurdwara sahib, blessings the new beginning of our college life </i></h4>
 <i>After shabad kirtan in gurdwara sahib. I came to auditorium where all the CSE and IT students assembling the atmosphere was calm and the stage was beautifully decorated after waiting for 20 minutes the host invited first speaker dr.harsimran sir who introduced us to the legacy of guru nanak dev engineering college
-<br>
+<br><br>
 Then host invited harpreet mam, her lecture made us feel like we were already a part of the GNDEC family. after that head dean academics dr.akshay girdhar introduced us to the opportunities available in college.
-<br>
+<br><br>
 Our principal sir then motivated us to make the best use of this platform. Then chief engineer Er.Ravinder garg and Er.Rakesh kumar, ADC ludhiana shared their inspiring and wonderful journeys and encouraged students to grow with values,skill and vision.
-<br>
+<br><br>
 The event concluded with a vote of thanks by dr.KS mann, HOD IT.</i>
 
 
