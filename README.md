@@ -23,10 +23,15 @@ our seniors then introduced us to git and github where I have to make my first r
 
 <h1 align="center">day 3</h1>
 <hr>
+<i> Our day started in the auditorium with a session led by dr.jaswinder singh (renowned for jaswinS lab on wheels) brought physics and maths to life through fun, simplified experiment and demonstration. He performed many experiments on stage. It was the day full of inspiration, interaction and introspection for me.
+<br><br>
+chief guest S.Gurcharan singh grewal</i>
+
+
 <h1 align="center">day 4 universal human values , causmic club</h1>
 <i>today 4th day of my college journey and it was full of learning and interaction </i>
 <i><h4>universal human values:a path to happiness </h4></i>
-<i> lecture of the day was on universal human values, a subject that delves into the essence of what it means to live a fulfilling and content life dr. priya darshani mam explained us the difference between excitement and happiness we explored the concept of happiness and the state of contentment the session providing us a way how we can achieve real happiness</i>
+<i>lecture of the day was on universal human values, a subject that delves into the essence of what it means to live a fulfilling and content life dr. priya darshani mam explained us the difference between excitement and happiness we explored the concept of happiness and the state of contentment the session providing us a way how we can achieve real happiness</i>
 <h4 align="center">causmic club</h4>
 <i>The vision of causmic club is to learn something from everything in its physical essence; the essence, which is equally enlightening and dark 
 <br>
