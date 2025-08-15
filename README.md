@@ -24,6 +24,8 @@ our seniors then introduced us to git and github where I have to make my first r
 <h1 align="center">day 3</h1>
 <hr>
 <i> Our day started in the auditorium with a session led by dr.jaswinder singh (renowned for jaswinS lab on wheels) brought physics and maths to life through fun, simplified experiment and demonstration. He performed many experiments on stage. It was the day full of inspiration, interaction and introspection for me. I have learnt many things from this session.
+![image alt](https://github.com/user-attachments/assets/1b722bf4-a0bd-4e8c-a4f8-7c5b5c857f1a)
+
 <br><br>
 <h3 align="center">chief guest</h3>
 S.Gurcharan singh grewal trust member of nankana sahib education trust. He encouraged students to believe in themselves, work hard and stay focused on their goal. He encouraged students with his motivating words.
