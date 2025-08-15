@@ -43,8 +43,7 @@ The member of this club believe in rational and reason based thinking and reason
 
 
 <h1 align="center">day 5</h1>
-<i><h3>id card formation</h3></i>
-<hr>
+<b><i>id card formation </i></b>
 <h1 align="center">day 6</h1>
 
 
