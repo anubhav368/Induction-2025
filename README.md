@@ -23,9 +23,13 @@ our seniors then introduced us to git and github where I have to make my first r
 
 <h1 align="center">day 3</h1>
 <hr>
-<i> Our day started in the auditorium with a session led by dr.jaswinder singh (renowned for jaswinS lab on wheels) brought physics and maths to life through fun, simplified experiment and demonstration. He performed many experiments on stage. It was the day full of inspiration, interaction and introspection for me.
+<i> Our day started in the auditorium with a session led by dr.jaswinder singh (renowned for jaswinS lab on wheels) brought physics and maths to life through fun, simplified experiment and demonstration. He performed many experiments on stage. It was the day full of inspiration, interaction and introspection for me. I have learnt many things from this session.
 <br><br>
-chief guest S.Gurcharan singh grewal</i>
+<h3 align="center">chief guest</h3>
+S.Gurcharan singh grewal trust member of nankana sahib education trust. He encouraged students to believe in themselves, work hard and stay focused on their goal. He encouraged students with his motivating words.
+<br><br>
+<h3 align="center">universal human values:a path to happiness </h3>
+lecture of the day was on universal human values, a subject that delves into the essence of what it means to live a fulfilling and content life dr. priya darshani mam explained us the difference between excitement and happiness we explored the concept of happiness and the state of contentment the session providing us a way how we can achieve real happiness</i>
 
 
 <h1 align="center">day 4 universal human values , causmic club</h1>
