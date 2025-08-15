@@ -32,15 +32,16 @@ S.Gurcharan singh grewal trust member of nankana sahib education trust. He encou
 lecture of the day was on universal human values, a subject that delves into the essence of what it means to live a fulfilling and content life dr. priya darshani mam explained us the difference between excitement and happiness we explored the concept of happiness and the state of contentment the session providing us a way how we can achieve real happiness</i>
 
 
-<h1 align="center">day 4 universal human values , causmic club</h1>
-<i>today 4th day of my college journey and it was full of learning and interaction </i>
-<i><h4>universal human values:a path to happiness </h4></i>
-<i>lecture of the day was on universal human values, a subject that delves into the essence of what it means to live a fulfilling and content life dr. priya darshani mam explained us the difference between excitement and happiness we explored the concept of happiness and the state of contentment the session providing us a way how we can achieve real happiness</i>
-<h4 align="center">causmic club</h4>
-<i>The vision of causmic club is to learn something from everything in its physical essence; the essence, which is equally enlightening and dark 
-<br>
-The member of this club believe in rational and reason based thinking and reasoning and wish to promote a culture of critical thinking </i>
+<h1 align="center">day 4:universal human values , causmic club</h1>
 <hr>
+<i>Today 4th day of my college journey and it was full of learning and interaction.
+<h4 align="center">universal human values:a path to happiness </h4>
+Dr.priya darshani continued with universal human values-1 enriching young minds with clarity and purpose, guiding students towards a more conscious and value-based life. 
+<h4 align="center">causmic club</h4>
+The vision of causmic club is to learn something from everything in its physical essence; the essence, which is equally enlightening and dark.
+The member of this club believe in rational and reason based thinking and reasoning and wish to promote a culture of critical thinking </i>
+
+
 <h1 align="center">day 5</h1>
 <i><h3>id card formation</h3></i>
 <hr>
