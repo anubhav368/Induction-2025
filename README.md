@@ -43,7 +43,23 @@ The member of this club believe in rational and reason based thinking and reason
 
 
 <h1 align="center">day 5</h1>
+<hr>
 <b><i>id card formation </i></b>
 <h1 align="center">day 6</h1>
+<hr>
+<i>6th day of induction program in auditorium start with expert lecture by arvind dhingra sir. He explained us about student development via STEP and TAC. Student development is greatly supported through STEP (Student Talent Enhancement Program) and TAC (Training and Counselling). STEP focuses on identifying and nurturing students’ talents, enhancing their skills, and building confidence through various academic and co-curricular activities. TAC provides guidance, motivation, and emotional support, helping students overcome challenges, make better decisions, and stay focused on their goals. Together, STEP and TAC create a balanced environment where students grow academically, socially, and personally, preparing them for future success.
+<br><br>
+After this lakhvir sir incharge of CML tells us about CML.The CML (Creative Minds Learning) Club is a student-driven platform that encourages creativity, innovation, and leadership. It provides opportunities for students to enhance their knowledge, showcase their talents, and develop problem-solving skills through interactive activities, competitions, and collaborative projects. The club aims to build confidence, teamwork, and overall personality development, helping students grow both academically and socially.
+</i>
+<h1 align="center">day 7</h1>
+<hr>
+<i>our day started in the auditorium by a session led by amit kangra sir giving us knowledge about digital marketing club. The Digital Marketing Club (DMC) helps students explore the world of online marketing, branding, and communication. It provides practical exposure to digital tools, social media strategies, and content creation. The club nurtures creativity, analytical thinking, and professional skills, preparing students for opportunities in the fast-growing digital world.
+<br><br>
+After this randhir sir introduced us to the conduction of examination in college all about mid semester examination, mentoring marks, about internal and external marks in examination.</i>
+<h1 align="center">day 8</h1>
+<hr>
+<i>last day of induction program started in TCC seminar hall with expert lecture by shaffy mam on "Millets super food".Millets are highly nutritious grains known as super foods because of their rich content of fiber, protein, vitamins, and minerals. They are gluten-free, easy to digest, and help in managing lifestyle diseases like diabetes, obesity, and heart problems. Being climate-resilient crops, millets also support sustainable agriculture. Including millets in our diet promotes both good health and environmental well-being.</i>
+
+
 
 
